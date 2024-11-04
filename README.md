@@ -79,7 +79,7 @@ The API expects input in the following JSON format:
    {
        "config": {
            "configurable": {
-               "thread_id": 1
+               "thread_id": "1"
            }
        },
        "prompt": "What are the key points in document?",
