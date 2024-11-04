@@ -1,0 +1,11 @@
+langchain_community
+tiktoken 
+langchainhub 
+chromadb 
+langchain 
+langgraph 
+langchain-google-genai 
+langchain-groq
+pymupdf
+django
+django-rest-framework
