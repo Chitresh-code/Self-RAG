@@ -99,7 +99,3 @@ This will send a request to your Django REST API, with Postman handling the JSON
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request.
-
----
-
-Let me know if you'd like any specific adjustments!
